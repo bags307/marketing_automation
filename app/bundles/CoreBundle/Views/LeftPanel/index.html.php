@@ -15,7 +15,7 @@ $extraMenu = $view['menu']->render('extra');
     <a class="mautic-brand<?php echo (!empty($extraMenu)) ? ' pull-left pl-0 pr-0' : ''; ?>" href="#">
         <!-- logo figure -->
        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 600 600;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#808285;}
 	.st1{fill:#414042;}
