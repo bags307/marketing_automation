@@ -1,0 +1,1 @@
+{"chartType":"pie","chartHeight":135,"chartData":{"labels":["Identified; 2x, 50%","Anonymous; 2x, 50%"],"datasets":[{"data":[2,2],"backgroundColor":["rgba(78,93,157,0.8)","rgba(0,180,156,0.8)"],"hoverBackgroundColor":["rgba(78,93,157,0.9)","rgba(0,180,156,0.9)"]}]}}

@@ -1,0 +1,1 @@
+{"chartType":"pie","chartHeight":135,"chartData":{"labels":["Ignored; 2x, 50%","Read; 2x, 50%","Failed; 0x, 0%"],"datasets":[{"data":[2,2,0],"backgroundColor":["rgba(78,93,157,0.8)","rgba(0,180,156,0.8)","rgba(253,149,114,0.8)"],"hoverBackgroundColor":["rgba(78,93,157,0.9)","rgba(0,180,156,0.9)","rgba(253,149,114,0.9)"]}]}}

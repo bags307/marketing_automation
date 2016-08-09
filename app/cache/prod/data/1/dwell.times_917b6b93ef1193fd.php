@@ -1,0 +1,1 @@
+{"chartType":"pie","chartHeight":135,"chartData":{"labels":["< 1m","1 - 5m","5 - 10m","> 10m"],"datasets":[{"data":[0,0,0,0],"backgroundColor":["rgba(78,93,157,0.8)","rgba(0,180,156,0.8)","rgba(253,149,114,0.8)","rgba(253,185,51,0.8)"],"hoverBackgroundColor":["rgba(78,93,157,0.9)","rgba(0,180,156,0.9)","rgba(253,149,114,0.9)","rgba(253,185,51,0.9)"]}]}}
