@@ -14,7 +14,7 @@ $extraMenu = $view['menu']->render('extra');
     <!-- brand -->
     <a class="mautic-brand<?php echo (!empty($extraMenu)) ? ' pull-left pl-0 pr-0' : ''; ?>" href="#">
         <!-- logo figure -->
-     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 200" style="enable-background:new 0 0 500 200;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
@@ -23,12 +23,12 @@ $extraMenu = $view['menu']->render('extra');
 	.st3{fill:#BE1E2D;}
 	.st4{fill:#8D0E1B;}
 	.st5{font-family:'HelveticaNeue-Bold';}
-	.st6{font-size:97.7458px;}
+	.st6{font-size:116.6899px;}
 	.st7{font-family:'HelveticaNeue-Light';}
-	.st8{font-size:19px;}
-	.st9{font-size:75.8624px;}
-	.st10{letter-spacing:1;}
-	.st11{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st8{font-size:22.6824px;}
+	.st9{font-size:90.5653px;}
+	.st10{letter-spacing:2;}
+	.st11{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
 </style>
 <g>
 	<path class="st0" d="M45.4,157.7c0,2.3,1.8,4.1,4.1,4.1h48.3c2.3,0,4.1-1.8,4.1-4.1l0,0c0-2.3-1.8-4.1-4.1-4.1H49.5
@@ -73,11 +73,12 @@ $extraMenu = $view['menu']->render('extra');
 			c0-30.5,24.8-55.2,55.2-55.2c4.1,0,8.1,0.5,11.9,1.3l2.4-4.1L89.2,20.6z"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 141.4846 120.4643)"><tspan x="0" y="0" class="st0 st5 st6">big</tspan><tspan x="144.7" y="0" class="st0 st7 st8"> </tspan><tspan x="150.4" y="0" class="st0 st7 st9 st10">idea</tspan></text>
-<line class="st11" x1="145.9" y1="129.2" x2="219.9" y2="129.2"/>
+<text transform="matrix(1 0 0 1 141.4854 162.9672)"><tspan x="0" y="0" class="st0 st5 st6">big</tspan><tspan x="172.7" y="0" class="st0 st7 st8"> </tspan><tspan x="179.6" y="0" class="st0 st7 st9 st10">idea</tspan></text>
+<line class="st11" x1="146.7" y1="173.3" x2="235.1" y2="173.3"/>
 <text transform="matrix(0.9274 0 0 1 539.0713 203.5)" class="st3" style="font-family:'STHeitiSC-Light'; font-size:30.7194px;">marketing</text>
 <text transform="matrix(0.9274 0 0 1 578.5713 223.9927)" class="st3" style="font-family:'STHeitiSC-Light'; font-size:30.7194px;">group</text>
 </svg>
+
 
         <!--/ logo text -->
     </a>
